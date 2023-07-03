@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "A.A. Mine",
+      "author": "You’re braver than you believe, and stronger than you seem, and smarter than you think.",
+      "id": 1
+    },
+    {
+      "title": "Helen Keller",
+      "author": "Keep your face to the sunshine and you cannot see a shadow.",
+      "id": 3
+    },
+    {
+      "title": "Les Brown",
+      "author": "In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact.",
+      "id": 4
+    },
+    {
+      "title": "Stephen Richards",
+      "author": "The only time you fail is when you fall down and stay down.",
+      "id": 7
+    },
+    {
+      "title": "Elbert Hubbard",
+      "author": "Positive anything is better than negative nothing.",
+      "id": 8
+    },
+    {
+      "title": "Mary Lou Retton",
+      "author": "Optimism is a happiness magnet. If you stay positive good things and good people will be drawn to you.",
+      "id": 9
+    }
+  ]
+}
